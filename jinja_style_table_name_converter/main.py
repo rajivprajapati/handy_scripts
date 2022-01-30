@@ -68,3 +68,4 @@ with open(new_file_path, mode='w') as file:
     file.write(new_script)
     cprint(sm, 'green')
     cprint(f"file writen to: {new_file_path}", 'green')
+    
